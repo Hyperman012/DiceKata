@@ -1,5 +1,5 @@
 # DiceKata
-Model a six-sided die by specifying the values on its front (center), top, and right faces. 
+Model a six-sided die by specifying the values on its front, top, and right faces. 
 
 All values must be between 1 and 6, with no repeats. Each face has an opposite such that the two sides add to 7 (e.g. 1 is opposite 6, 2 is opposite 5, 3 is opposite 4).
 
