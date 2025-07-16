@@ -2,12 +2,11 @@
 
 public class Die
 {
-
     public Die(int front, int top, int right)
     {
     }
 
-    public Die RoatateUp()
+    public Die RotateUp()
     {
         throw new NotImplementedException();
     }
