@@ -7,5 +7,5 @@ The Die class should support rotating the die in four directions: up, down, left
 
 This kata offers practice with both test-driven development and modeling immutable state.
 
-<img src="./Die%20w.Text.jpg" width="125" height="125" alt="Description of the image">
+<img src="./Die%20w.Text.jpg" width="300" height="300" alt="Description of the image">
 
